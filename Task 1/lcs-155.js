@@ -1,0 +1,1 @@
+a=process.argv.slice(2),l='',f=a[0];for(i in f)for(j=+i+1;j<=f.length;j++)s=f.slice(i,j),a.every(x=>x.includes(s))&&s.length>l.length&&(l=s);console.log(l)
