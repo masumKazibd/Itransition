@@ -90,3 +90,13 @@ We’ll talk about it later via Zoom.
 Just a side note, it's not "a complex task about some oscrube algorithm", not at all. It's trivial.
 
 DEADLINE: this Wednesday including (it's possible to submit several solutions, the best working will be recorded).
+
+----
+
+Just as idea to get whether the resul in the task #1 is so-so or great. According to the reqs of the task, the less the better. In my opinion, you may use the following as a guide:
+* 400+ – you didn't even try to optimize the solution by source code size, probably just didn't understand the task
+* 300...400 – acceptable
+* 200...300 – ok
+* 150...200 – good
+* 120...150 – very good
+* less than 120 – excellent
