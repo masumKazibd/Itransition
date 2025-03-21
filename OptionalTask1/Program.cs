@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        string outputPath = @"D:\itransition\Optional Task 1\OptionalTask1\solution.js";
+        string outputPath = "./solution.js";
         using (var writer = new StreamWriter(outputPath))
         {
             TextWriter originalConsole = Console.Out;
@@ -20,7 +20,7 @@ class Program
                 "{",
                 "    static void Main()",
                 "    {",
-                "        string outputPath = @\"D:\\itransition\\Optional Task 1\\OptionalTask1\\solution.js\";",
+                "        string outputPath = \"./solution.js\";",
                 "        using (var writer = new StreamWriter(outputPath))",
                 "        {",
                 "            TextWriter originalConsole = Console.Out;",
